@@ -12,22 +12,20 @@
 
 The eye is open while the screen is visible and closed while it’s blacked out. When Priva can’t tell, the eye dims. Priva checks every five seconds, and the top of its menu says the same in words.
 
-## Black out and restore
+## Black Out This Mac
 
 Choose Black Out This Mac from the Priva menu, and Priva asks first. It also tells you how to bring the screen back: press Command-Space, type Restore Screen, and press Return. Restore Screen is in the Priva menu too.
 
 ## Veil
 
-Veil blurs the text box you’re typing in, in any app. Choose Veil from the Priva menu, or press Control-Option-V anywhere.
+Veil blurs supported text fields as you type. Choose Veil from the Priva menu, or press Control-Option-V anywhere.
 
-The blur sits over the lines of text and follows the box as it moves or scrolls. Clicks and typing pass straight through to the app.
+The blur sits over the lines of text and follows the field as it moves or scrolls. Clicks and typing pass straight through to the app.
 
 Move the pointer over the text to read it. Move slowly to read a word, rest to widen the view, or sweep across for a quick glimpse. Hold Option to see everything.
 
-Text you send stays blurred where it lands. Priva keeps it in memory only and forgets it when Veil turns off.
-
-Screenshots, recordings, and screen sharing show the blur too.
+Veil also blurs text you sent when it finds it in the active window. Priva keeps that text in memory only and forgets it when Veil turns off.
 
 ## Veil settings
 
-Two sliders live in the Priva menu. Blur sets how strong the blur is. Reveal sets how much the pointer shows. Reset puts both back.
+Veil Settings in the Priva menu has two sliders. Blur sets how strong the blur is. Reveal sets how much the pointer shows. Reset puts both back.

@@ -32,11 +32,11 @@ Closing the window puts Lista away. The icon stays in the menu bar.
 
 ## History
 
-The clock button switches to History: every item added, completed, reopened, or removed, newest first, with the date and time. Click it again to return to the list.
+The clock button switches to History: the latest 300 checklist changes, newest first, with the date and time. Click it again to return to the list.
 
 ## Plain text
 
-The list is a Markdown file. Lista checks it every second, so a change made in any editor shows up right away and lands in History too.
+The list is a Markdown file. Edit it in any editor. Lista checks it every second, and changes to checklist items appear in History.
 
 - `- [ ] Item` is an open item.
 - `- [x] Item` is a completed item.
